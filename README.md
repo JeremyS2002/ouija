@@ -6,7 +6,7 @@ The server side is written in python and the flask framework then hosted on [pyt
 The hardware is a sparkfun thing dev and 4 74HC595N shift registers on a corkboard.
 
 # front
-![front](https://raw.githubusercontent.com/Jeremy-f-g-Sharp/ouija/main/images/front.jpg?token=AN7S2PIMYEFXSFSZ7HXCSDS7UL3KU)
+![front](https://raw.githubusercontent.com/Jeremy-f-g-Sharp/ouija/master/images/front.jpg?token=AN7S2PM2CJLMITFTD4WIKBS7UPS6U)
 
 # back
-![back](https://raw.githubusercontent.com/Jeremy-f-g-Sharp/ouija/main/images/back.jpg?token=AN7S2PJH6OU66PX55S2KWES7UL3RC)
+![back](https://raw.githubusercontent.com/Jeremy-f-g-Sharp/ouija/master/images/back.jpg?token=AN7S2PJJPWMMWE2BKI2UUSC7UPTAW)
